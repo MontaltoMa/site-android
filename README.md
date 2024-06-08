@@ -20,6 +20,6 @@ O mesmo vale para o vídeo anexado e a tabela, ambos se mantem resoponcivos mesm
 
 Tecnologias usadas:
 - HTML 5
--CSS 3
+- CSS 3
 
 Acesse minha página: https://montaltoma.github.io/site-android/
